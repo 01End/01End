@@ -1,15 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">I'm a Machine Learning engineer</h3>
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Khaled&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning&descAlignY=55&descSize=20" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhaledk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akhaledk/" height="30" width="40" /></a>
-<a href="https://kaggle.com/iend01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iend01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/iend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/iend" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/01ak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/01ak/" height="30" width="40" /></a>
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://github.com/01End">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+production+ML+pipelines;Stacked+models+%7C+LightGBM+%7C+XGBoost;LLMs;MLOps%3A+Docker+%7C+MLflow+%7C+FastAPI;Currently%3A+ML+Intern+%40+Mekdam+Software" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01end&show_icons=true&bg_color=000000&locale=en&layout=compact" alt="01end" /></p>
+<!-- Badges -->
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-akhaledk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhaledk/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-iend01-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iend01)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-01ak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/01ak/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-iend-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/iend)
+
+</div>
+
+---
+
+##  What I build
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+- 🐎 **Recovery-time prediction pipeline** for endurance horse racing — stacked LightGBM + GBT, MAE within ±1.8–3.8 min
+- 🤖 **[Multi-agent RAG](https://github.com/01End/Rag-egyptian-schools)** — LangGraph + ChromaDB + Ollama, fully local
+- 🔥 **[Fire & smoke detection](https://github.com/01End/fire-detection)** — computer vision with RetinaNet (ResNet-50 + FPN)
+- 🛒 **[CLV prediction](https://github.com/01End/Customer-Value-Prediction-Segmentation)** on 541K real transactions, built end-to-end
+- ❤️ **[Heart disease classifier](https://github.com/01End/Heart-Disease-Risk-Prediction-Patient-Clustering-)** — XGBoost + DNN, AUC ~0.80, SHAP, deployed on Streamlit
+
+<br clear="right"/>
+
+---
+
+##  Tech arsenal
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,docker,fastapi,mysql,cpp,git,githubactions,vscode&perline=5" alt="Tech stack" />
+
+</div>
+
+---
+
+##  Stats
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=01End&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=01End&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01End&theme=tokyonight&hide_border=true" alt="Streak" />
+
+  <br/><br/>
+
+  
+
+</div>
+
+---
+
+##  Contribution snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01End/01End/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01End/01End/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/01End/01End/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
+
+<!-- Animated wave footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
